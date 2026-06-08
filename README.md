@@ -15,6 +15,9 @@ Collection of Awesome Tools used in creating, utilizing &amp; deploying LLMs in 
 5. Evidently.ai
 
 
+## Security / Agent Identity
+1. [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agent identity verification before x402 micropayment inference access. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Eval Tools
 1. RAGAS
 2. DeepEval
